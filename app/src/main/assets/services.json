@@ -1,0 +1,100 @@
+[
+  {
+    "category": "Shifting",
+    "name": "Local Shifting",
+    "price": "Rs.1500",
+    "rating": "4.8",
+    "imageUrl": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "category": "Shifting",
+    "name": "Intercity Shifting",
+    "price": "Rs.1200",
+    "rating": "4.6",
+    "imageUrl": "https://images.unsplash.com/photo-1519003722824-194d4455a60c?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "category": "Shifting",
+    "name": "Office Shifting",
+    "price": "Rs.1400",
+    "rating": "4.9",
+    "imageUrl": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "category": "Shifting",
+    "name": "Packing & Moving",
+    "price": "Rs.1400",
+    "rating": "4.7",
+    "imageUrl": "https://images.unsplash.com/photo-1520038410233-7141be7e6f97?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "category": "Shifting",
+    "name": "Furniture Shifting",
+    "price": "30 $/H",
+    "rating": "4.5",
+    "imageUrl": "https://images.unsplash.com/photo-1581706162908-cc146199a063?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "category": "Plumbing",
+    "name": "Tap Repair",
+    "price": "Rs.1500",
+    "rating": "4.7",
+    "imageUrl": "https://images.unsplash.com/photo-1581244276891-8324420d477f?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "category": "Plumbing",
+    "name": "Pipe Leakage",
+    "price": "Rs.1500",
+    "rating": "4.5",
+    "imageUrl": "https://images.unsplash.com/photo-1504148455328-c376907d081c?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "category": "Plumbing",
+    "name": "Bathroom Fitting",
+    "price": "Rs.1300",
+    "rating": "4.9",
+    "imageUrl": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "category": "Painting",
+    "name": "House Painting",
+    "price": "Rs.1500",
+    "rating": "4.9",
+    "imageUrl": "https://images.unsplash.com/photo-1589939705384-5185138a04b9?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "category": "Cleaning",
+    "name": "Deep House Cleaning",
+    "price": "Rs.2500",
+    "rating": "4.9",
+    "imageUrl": "https://images.unsplash.com/photo-1581578731548-c64695cc6958?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "category": "Gadgets",
+    "name": "Laptop Repair",
+    "price": "Rs.2000",
+    "rating": "4.9",
+    "imageUrl": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "category": "Electrician",
+    "name": "Fan Repair",
+    "price": "Rs.1500",
+    "rating": "4.7",
+    "imageUrl": "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "category": "Car Service",
+    "name": "Car Wash",
+    "price": "Rs.1000",
+    "rating": "4.8",
+    "imageUrl": "https://images.unsplash.com/photo-1520340356584-f9917d1eea6f?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "category": "Gardening",
+    "name": "Lawn Mowing",
+    "price": "Rs.1800",
+    "rating": "4.7",
+    "imageUrl": "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?auto=format&fit=crop&w=500&q=60"
+  }
+]

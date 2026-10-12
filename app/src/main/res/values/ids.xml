@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tv_label" type="id" />
+    <item name="cv_icon_1" type="id" />
+    <item name="cv_icon_2" type="id" />
+    <item name="cv_icon_3" type="id" />
+    <item name="cv_icon_4" type="id" />
+    <item name="cv_icon_5" type="id" />
+    <item name="cv_icon_6" type="id" />
+</resources>

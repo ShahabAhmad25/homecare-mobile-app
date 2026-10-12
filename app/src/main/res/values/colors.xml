@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="navy_blue">#003466</color>
+    <color name="light_grey">#F5F0F0</color>
+    <color name="text_grey">#757575</color>
+    <color name="emerald_green">#006B5C</color>
+    <color name="Alice_Blue">#C9E2FF</color>
+    <color name="dark_gray_card">#E0E3E6</color>
+
+    <color name="banner_bg">#232F3E</color>
+    <color name="category_bg_blue">#E3F2FD</color>
+    <color name="category_bg_green">#E0F2F1</color>
+    <color name="category_bg_orange">#FFF3E0</color>
+    <color name="category_bg_red">#FFEBEE</color>
+    <color name="promo_accent">#795548</color>
+</resources>
